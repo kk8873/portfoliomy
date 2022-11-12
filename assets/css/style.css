@@ -86,14 +86,13 @@ body{
     background: #000;
 }
 
-home-img {
-    position: absolute;
-    margin-top: 10px;
+.home-img {
+    position: fixed;
+    margin-top: 50px;
     top: 0px;
     right: 0px;
     height: 500px;
-    width: 50%;
-    object-fit: cover;
+    width: 30%;
     opacity: 0.2;
 }
 
