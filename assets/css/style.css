@@ -86,12 +86,12 @@ body{
     background: #000;
 }
 
-.home-img{
+home-img {
     position: absolute;
-    margin-top: 50px;
-    top: 0;
-    right: 0;
-    height: auto;
+    margin-top: 10px;
+    top: 0px;
+    right: 0px;
+    height: 500px;
     width: 50%;
     object-fit: cover;
     opacity: 0.2;
